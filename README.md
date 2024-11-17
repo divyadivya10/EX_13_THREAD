@@ -1,4 +1,11 @@
 # EX_13_THREAD
+
+Developed by: DIVYA R
+
+Registeration Number : 212222040040
+
+Date:11/11/24
+
 ## AIM:
 To develop a thread synchronization concept with the help of clicking the button in Android Studio.
 
@@ -21,12 +28,6 @@ Step 6: Display message give in MainActivity file.
 Step 7: Save and run the application.
 
 ## PROGRAM:
-/*
-```
-Developed by: DIVYA R
-Registeration Number : 212222040040
-```
-*/
 
 ## MainActivity.java
 ```
